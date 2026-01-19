@@ -1,4 +1,4 @@
-## Welcome to CS 210 — Software Project Experience
+## Welcome to the CS 210 — Software Project Experience GitHub!
 
 This page is an **index of the CS 210 GitHub organization**.  
 For official course information, schedules, policies, and logistics, visit the **Home repository** below.
