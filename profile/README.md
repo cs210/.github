@@ -28,5 +28,26 @@ For official course information, schedules, policies, and logistics, visit the *
 
 ---
 
-### Archived Team Repos
-Archived project repositories from past years.
+---
+
+## Archived Team Repos
+
+### 2025
+- [2025-Unusual-4](https://github.com/cs210/2025-Unusual-4)
+- [Example-Win24](https://github.com/cs210/Example-Win24)
+
+### 2024
+- [2024-Mercedes-1](https://github.com/cs210/2024-Mercedes-1)
+- [2024-Mercedes-2](https://github.com/cs210/2024-Mercedes-2)
+- [Mercedes1-2024-App](https://github.com/cs210/Mercedes1-2024-App)
+- [2024-GDX-1](https://github.com/cs210/2024-GDX-1)
+- [2024-GDX-2](https://github.com/cs210/2024-GDX-2)
+- [2024-Einstein-Hospital-2](https://github.com/cs210/2024-Einstein-Hospital-2)
+- [kenja](https://github.com/cs210/kenja)
+
+### 2023
+- [Relative-Refresh](https://github.com/cs210/Relative-Refresh)
+
+### 2022
+- [2022-Meta3](https://github.com/cs210/2022-Meta3)
+
