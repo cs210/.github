@@ -16,12 +16,12 @@ For official course information, schedules, policies, and logistics, visit the *
 |-------------------|------------|-----------|
 | [NVIDIA-ADR-1](https://github.com/cs210/NVIDIA-ADR-1) | [Assign0](https://github.com/cs210/Assign0) | [Loft](https://github.com/cs210/Loft) |
 | [NVIDIA-ADR-2](https://github.com/cs210/NVIDIA-ADR-2) | [Onboarding](https://github.com/cs210/Onboarding) | [Lecture Slides](https://github.com/cs210/Home/blob/master/Lecture_Slides/LecturesAndRecordings.md) |
-| [NVIDIA-ADR-3](https://github.com/cs210/NVIDIA-ADR-3) |  | [Budget Guidelines](https://github.com/cs210/Home/blob/master/BudgetGuidelines.md) |
-| [NVIDIA-CLS-1](https://github.com/cs210/NVIDIA-CLS-1) |  | [SGM Schedule (by date)](https://docs.google.com/spreadsheets/d/1RD7dRpBKkguiU_MtjF7QEuRO7GdlycudoB3DR8PqNZM/edit?usp=sharing) |
-| [NVIDIA-CLS-2](https://github.com/cs210/NVIDIA-CLS-2) |  | [Resources](https://github.com/cs210/Home/tree/master/Resources) |
-| [AAM-1](https://github.com/cs210/AAM-1) |  | |
-| [AAM-2](https://github.com/cs210/AAM-2) |  | |
-| [CLAIR](https://github.com/cs210/CLAIR) |  | |
+| [NVIDIA-ADR-3](https://github.com/cs210/NVIDIA-ADR-3) | [6 Hats](https://docs.google.com/spreadsheets/d/18QRLSc81RLYsYDKh_tToJcrLhHcPclGf/edit?gid=1089184861#gid=1089184861) | [Budget Guidelines](https://github.com/cs210/Home/blob/master/BudgetGuidelines.md) |
+| [NVIDIA-CLS-1](https://github.com/cs210/NVIDIA-CLS-1) | [Startup Your Team](https://docs.google.com/document/d/12UtqZ5qZ7WpbeyCmS-DO3OI8I91Xu73P2yaUSxGXink/edit?tab=t.0#heading=h.vm6czdazbj2c) | [SGM Schedule (by date)](https://docs.google.com/spreadsheets/d/1RD7dRpBKkguiU_MtjF7QEuRO7GdlycudoB3DR8PqNZM/edit?usp=sharing) |
+| [NVIDIA-CLS-2](https://github.com/cs210/NVIDIA-CLS-2) | [Github for Project Management](https://docs.google.com/document/d/10LfgGRvg640ouPb9d3mj8uR7kiC5HW5MPdybITaB_Xc/edit?tab=t.0#heading=h.jj3yrb21rltr) | [Resources](https://github.com/cs210/Home/tree/master/Resources) |
+| [AAM-1](https://github.com/cs210/AAM-1) | [Team Coding Standards](https://docs.google.com/document/d/1qnhcj-sKKhRFNSLqZEAcRko5IxCXjoPKcvDsIP3aW1k/edit?tab=t.0) | |
+| [AAM-2](https://github.com/cs210/AAM-2) | [Interview Stakeholders](https://docs.google.com/document/d/18TiypG06yQIVJBDeCOM9vT1XRWI8a1ggbLCBByDGQkc/edit?tab=t.0#heading=h.nt84nq40uja9) | |
+| [CLAIR](https://github.com/cs210/CLAIR) | [Propose a Product Internally](https://docs.google.com/document/u/1/d/1Sb5p4GI72zbkSdPTTReEBLQBST0V_afNDTUueXRHudQ/edit?usp=sharing) | |
 | [UNUSUAL-1](https://github.com/cs210/UNUSUAL-1) |  | |
 | [UNUSUAL-2](https://github.com/cs210/UNUSUAL-2) |  | |
 | [UNUSUAL-3](https://github.com/cs210/UNUSUAL-3) |  | |
