@@ -4,7 +4,7 @@ This page is an **index of the CS 210 GitHub organization**.
 For official course information, schedules, policies, and logistics, visit the **[Home Repository](https://github.com/cs210/Home)**.
 
 ### Course Hub
-- **⭐️ [Home Repository (course docs, schedules, policies)](https://github.com/cs210/Home)**
+- **⭐️ [Home Repository (course docs, schedules, policies, recommended books, example Wikis, ...)](https://github.com/cs210/Home)**
 - [Class Slack](https://cs210-2026.slack.com/)
 - Assignments are on Canvas
 
